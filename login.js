@@ -46,7 +46,7 @@ function start(){
         alert("Please enter both Email and Password.") ;
         return;
     }
-    else if (value == 'singhalvansh74@gmail.com') {
+    else if (value == 'garvitchaudhary534@gmail.com') {
         // alert("Login successful!");
         // Redirect to another page
         window.location.href = "profile.html";
