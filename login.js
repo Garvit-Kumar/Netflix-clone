@@ -13,7 +13,7 @@ function login() {
         errorMessage.textContent = "Please enter both Email and Password.";
         return;
     }
-    if (val == 'singhalvansh74@gmail.com' && pas == 'vansh@123') {
+    if (val == 'garvitchaudhary534@gmail.com' && pas == 'garvit@123') {
         // alert("Login successful!");
         // Redirect to another page
         window.location.href = "profile.html";
